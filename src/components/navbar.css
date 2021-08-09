@@ -1,0 +1,7 @@
+.navbar {
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  justify-content: space-between;
+}

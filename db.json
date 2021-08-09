@@ -1,0 +1,246 @@
+{
+  "profiles": [
+    {
+      "email": "ashishkhoiwal@gmail.com",
+      "name": "Ashish Khoiwal",
+      "username": "ashishKhoiwal",
+      "password": "aaaa",
+      "role": "non-admin",
+      "tasks": [
+        {
+          "id": 1,
+          "text": "dentists Appointment",
+          "day": "Feb 5th at 2:30pm",
+          "reminder": true
+        },
+        {
+          "id": 3,
+          "text": "Go for Riding",
+          "day": "Feb 5th at 6.00pm",
+          "reminder": true
+        },
+        {
+          "text": "Get Vaccination",
+          "day": "Monday",
+          "reminder": true,
+          "id": 4
+        }
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "username": "aaaa",
+      "name": "trial id",
+      "password": "aaaa",
+      "email": "aaaa@gmail.com",
+      "role": "admin",
+      "tasks": [
+        {
+          "id": 4,
+          "text": "dentists Appointment",
+          "day": "May 5th at 2:30pm",
+          "reminder": false
+        },
+        {
+          "id": 5,
+          "text": "Go for Riding with john",
+          "day": "Jun 5th at 6.00pm",
+          "reminder": false
+        },
+        {
+          "text": "Get Vaccine ",
+          "day": "tuesday",
+          "reminder": false,
+          "id": 6
+        },
+        {
+          "text": "Task 3",
+          "day": "30th May",
+          "reminder": true,
+          "id": "1622380275688"
+        },
+        {
+          "text": "task2",
+          "day": "before monday",
+          "reminder": true,
+          "id": "1622392770816"
+        }
+      ]
+    },
+    {
+      "email": "rach@gmail.com",
+      "name": "rach",
+      "username": "rach",
+      "password": "buybu",
+      "role": "admin",
+      "tasks": [],
+      "id": 4
+    },
+    {
+      "email": "aman@gmail.com",
+      "name": "aman",
+      "username": "amanJha",
+      "password": "aman",
+      "role": "non-admin",
+      "tasks": [],
+      "id": 5
+    },
+    {
+      "email": "ravi@gmail.com",
+      "name": "ravi",
+      "username": "Ravi",
+      "password": "ravi",
+      "role": "non-admin",
+      "tasks": [],
+      "id": 6
+    },
+    {
+      "email": "manish@gmail.com",
+      "name": "manish",
+      "username": "manish",
+      "password": "M@nish",
+      "role": "non-admin",
+      "tasks": [],
+      "id": 7
+    },
+    {
+      "email": "david@gmail.com",
+      "name": "David",
+      "username": "david",
+      "password": "d@vid001",
+      "role": "admin",
+      "tasks": [],
+      "id": 8
+    },
+    {
+      "email": "new@gmail.com",
+      "name": "new user",
+      "username": "newUser",
+      "password": "newuser",
+      "tasks": [
+        {
+          "text": "create a table to organize all the profiles",
+          "day": "do that before monday",
+          "reminder": false,
+          "id": "1622312495320"
+        }
+      ],
+      "role": "non-admin",
+      "id": 9
+    },
+    {
+      "email": "anna@gmail.com",
+      "name": "anna",
+      "username": "kaniki",
+      "password": "kaniki",
+      "tasks": [
+        {
+          "text": "My first task",
+          "day": "29th may",
+          "reminder": true,
+          "id": "1622307153445"
+        }
+      ],
+      "role": "non-admin",
+      "id": 10
+    },
+    {
+      "email": "john@gmail.com",
+      "name": "john",
+      "username": "john",
+      "password": "j0hn",
+      "role": "admin",
+      "tasks": [],
+      "id": 11
+    },
+    {
+      "email": "gopal@gmail.com",
+      "name": "gopal",
+      "username": "Gopal",
+      "password": "g0p@l",
+      "role": "non-admin",
+      "tasks": [
+        {
+          "text": "Register on this application",
+          "day": "30th may",
+          "reminder": true,
+          "id": "1622351697314"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "email": "yash@gmail.com",
+      "name": "yash",
+      "username": "yash",
+      "password": "yash",
+      "role": "non-admin",
+      "tasks": [],
+      "id": 13
+    },
+    {
+      "email": "mynewId@gmail.com",
+      "name": "mynewID",
+      "username": "mynewId",
+      "password": "mynewid",
+      "role": "non-admin",
+      "tasks": [],
+      "id": 14
+    },
+    {
+      "email": "vedant@gmail.com",
+      "name": "vedant",
+      "username": "vedant",
+      "password": "vedant",
+      "role": "admin",
+      "tasks": [
+        {
+          "text": "fesges",
+          "day": "egrdg",
+          "reminder": false,
+          "id": "1622441364661"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "email": "nvnli@gmail.com",
+      "name": "aaaa",
+      "username": "asss",
+      "password": "asss",
+      "tasks": [
+        {
+          "text": "rb",
+          "day": "enoi",
+          "reminder": false,
+          "id": "1628245106498"
+        }
+      ],
+      "role": "non-admin",
+      "id": 19
+    },
+    {
+      "email": "njknr@gmail.com",
+      "name": "udal",
+      "username": "udalkhatik11",
+      "password": "aaaa",
+      "tasks": [
+        {
+          "text": "dfhgtrn",
+          "day": "htrhrt",
+          "reminder": false,
+          "id": "1628402272471"
+        },
+        {
+          "text": "zgt",
+          "day": "vb",
+          "reminder": false,
+          "id": "1628402278057"
+        }
+      ],
+      "role": "non-admin",
+      "id": 20
+    }
+  ]
+}

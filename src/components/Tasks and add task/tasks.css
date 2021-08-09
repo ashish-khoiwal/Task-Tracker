@@ -1,0 +1,28 @@
+.Mytask {
+  background-color: rgb(230, 235, 234);
+  padding: 15px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.Mytask h1 {
+  font-size: 15px;
+}
+.Mytask p {
+  font-size: 10px;
+}
+.reminder {
+  border-left: 5px solid green;
+}
+
+.addTaskForm {
+  padding: 20px;
+  background-color: rgb(226, 226, 219);
+  margin: 20px;
+  border: 1px solid rgb(107, 107, 131);
+  border-radius: 15px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
