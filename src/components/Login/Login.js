@@ -3,9 +3,9 @@ import "./login.css";
 const Login = ({ checkLogin, setOpenLogin }) => {
   localStorage.getItem("username") !== null
     ? checkLogin(
-        localStorage.getItem("username"),
-        localStorage.getItem("password")
-      )
+      localStorage.getItem("username"),
+      localStorage.getItem("password")
+    )
     : setOpenLogin(true);
   const [username, setusername] = useState("");
   const [password, setpassword] = useState("");
@@ -20,11 +20,11 @@ const Login = ({ checkLogin, setOpenLogin }) => {
     setpassword("");
   };
   return (
-    <div className='login-container'>
-      <h1>Please Log in</h1>
+    <div className='login-container' style={{marginTop:'25vh'}}>
+      <h2>Please login</h2>
       <form
         className='add-form'
-        style={{ width: "50vw", margin: "auto" }}
+        style={{ width: "25vw", margin: "auto" }}
         onSubmit={submitBtn}
       >
         <div className='form-control'>
@@ -38,7 +38,7 @@ const Login = ({ checkLogin, setOpenLogin }) => {
         </div>
         <div className='form-control'>
           <label>Password</label>
-        
+
           <input
             type='password'
             placeholder='please enter the password'

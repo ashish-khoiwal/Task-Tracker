@@ -33,11 +33,11 @@ const Signup = ({ checkform }) => {
   };
 
   return (
-    <div className='login-container'>
-      <h1>Please Signup</h1>
+    <div className='login-container' style={{marginTop:'13vh'}}>
+      <h2>Please Signup</h2>
       <form
         className='add-form'
-        style={{ width: "50vw", margin: "auto" }}
+        style={{ width: "25vw", margin: "auto" }}
         onSubmit={submitBtn}
       >
         <div className='form-control'>
